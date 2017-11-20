@@ -11,6 +11,8 @@ print("Hello, " + full_name.title() + ".")
 
 print("\tTab and New Line\n")
 
-intentional_space = "python "
+intentional_space = " python "
 print(intentional_space)
 print(intentional_space.rstrip())
+print(intentional_space.lstrip())
+print(intentional_space.strip())
