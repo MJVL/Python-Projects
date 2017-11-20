@@ -21,3 +21,4 @@ print(numbers)
 del(numbers[0])
 
 print(numbers)
+print(len(numbers))
