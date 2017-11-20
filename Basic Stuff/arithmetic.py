@@ -1,0 +1,5 @@
+print(6 + 7)
+print(12 - 52)
+print(9 * 3)
+print(2 / 5)
+print(2 ** 4)
