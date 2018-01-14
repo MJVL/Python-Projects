@@ -4,9 +4,9 @@ for prime in primes:
     sum += prime
     print("Current Prime: " + str(prime))
 print("Sum of Primes: " + str(sum))
-for num in range(1,6):
+for num in range(1, 6):
     print(num)
-somenums = list(range(1,11))
+somenums = list(range(1, 11))
 print(somenums)
 cubes = []
 for i in range(1,11):

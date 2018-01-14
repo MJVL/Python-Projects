@@ -1,7 +1,7 @@
 nums = [11, 12, 13, 14, 15]
-print (min(nums))
-print (max(nums))
-print (sum(nums))
+print(min(nums))
+print(max(nums))
+print(sum(nums))
 squares = [i**2 for i in range(1,51)]
 print(squares)
 print(squares[0:5])

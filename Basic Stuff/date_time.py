@@ -16,4 +16,3 @@ print(now.minute)
 print(now.second)
 
 print('%s:%s:%s' % (now.hour, now.minute, now.second))
-

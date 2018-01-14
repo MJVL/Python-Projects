@@ -6,9 +6,9 @@ print(years)
 years.reverse()
 print(years)
 
-#Temp Sorting
+# Temp Sorting
 subjects = ["Math", "Science", "English", "History"]
 print(subjects)
 print(sorted(subjects))
-print(sorted(subjects,reverse=True))
+print(sorted(subjects, reverse=True))
 print(subjects)

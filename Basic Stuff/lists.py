@@ -14,7 +14,7 @@ numbers.append(3)
 
 print(numbers)
 
-numbers.insert(0,0)
+numbers.insert(0, 0)
 
 print(numbers)
 
