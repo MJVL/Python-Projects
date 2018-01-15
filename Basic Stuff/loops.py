@@ -9,6 +9,8 @@ for num in range(1, 6):
 somenums = list(range(1, 11))
 print(somenums)
 cubes = []
-for i in range(1,11):
+for i in range(1, 11):
     cubes.append(i**3)
 print(cubes)
+for i in range(20):
+    print(i)
