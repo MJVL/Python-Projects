@@ -9,3 +9,4 @@ class Animal(object):
 
 zebra = Animal('zebra', 5, True)
 zebra.description()
+
